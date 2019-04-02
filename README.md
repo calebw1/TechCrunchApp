@@ -1,6 +1,4 @@
 # TechCrunchApp
 Playing around with Swift
 
-News Feed Appearance: https://imgur.com/a/Ia0i5j6
-
-Detailed News Article Appearance: https://imgur.com/a/YzV87rj
+How it looks so far: https://giphy.com/gifs/yNr0waHEOGvapjf4ul
